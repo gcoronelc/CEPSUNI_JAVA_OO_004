@@ -13,5 +13,9 @@
 ## Clase 01
 
 - Fundamentos de GIT y GITHUB
-- Clases y Objetos
+- Clases y Objetos: http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-01.html
+
+## Clase 02
+
+- Miembros de Clase: http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-02.html
 
